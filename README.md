@@ -1,17 +1,14 @@
 ### Hi, I'm Davi 👋
 
-<!--
-- 🔭 I’m currently working on ...
--->
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on ChatAnalyse
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/davi-ghiggino-596081200/)
 <!--
+- 🔭 I’m currently working on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/davi-ghiggino-596081200/)
-
 <center>
     <table align="center">
       <tr>
