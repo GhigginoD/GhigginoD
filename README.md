@@ -1,9 +1,10 @@
 ### Hi, I'm Davi 👋
 
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ChatAnalyse
+- 🌱 I’m currently learning TypeScript, React
+- 🔭 I’m currently working on Concilie Online
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/davi-ghiggino-596081200/)
 <!--
+- 👯 I’m looking to collaborate on ChatAnalyse
 - 🔭 I’m currently working on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
