@@ -1,6 +1,6 @@
 ### Hi, I'm Davi 👋
 
-- 🌱 I’m currently learning TypeScript, React
+- 🌱 I’m currently learning TypeScript, React, Python
 - 🔭 I’m currently working on Concilie Online
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/davi-ghiggino-596081200/)
 <!--
