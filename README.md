@@ -1,8 +1,8 @@
 ### Hi, I'm Davi 👋
 
 - 🌱 I’m currently learning TypeScript, React, Python
-- 🔭 I’m currently working on Concilie Online
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/davi-ghiggino-596081200/)
+- 🔭 I’m currently working with TypeScript and React on OTG (Open Technologies Group)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/davi-ghiggino)
 <!--
 - 👯 I’m looking to collaborate on ChatAnalyse
 - 🔭 I’m currently working on ...
