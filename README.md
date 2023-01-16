@@ -1,7 +1,7 @@
 ### Hi, I'm Davi 👋
 
 - 🌱 I’m currently learning TypeScript, React, Python
-- 🔭 I’m currently working with TypeScript and React on OTG (Open Technologies Group)
+- 🔭 I’m currently working with TypeScript and React on CNC
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/davi-ghiggino)
 <!--
 - 👯 I’m looking to collaborate on ChatAnalyse
