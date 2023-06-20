@@ -1,6 +1,6 @@
 ### Hi, I'm Davi 👋
 
-- 🌱 I’m currently learning TypeScript, React, Node and Machine Learning
+- 🌱 I’m currently learning TypeScript, React and Machine Learning
 - 🔭 I’m currently working on [CNC - Confederação Nacional do Comércio de Bens, Serviços e Turismo](https://www.linkedin.com/company/sistemacnc/mycompany/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/davi-ghiggino)
 <!--
