@@ -1,7 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Davi!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
-<img height=250 width=250img align="right" alt="leof" src="https://cdn.discordapp.com/attachments/1209941461643165739/1225925103695433738/tenor_3.gif?ex=6622e6b9&is=661071b9&hm=5fae537911234f928770c0f05b3cc2065d15d18eb3b49628e99d4ecfcaf28ee7&">
-
+<img align="right" alt="" height="300px" src="https://cdn.discordapp.com/attachments/1209941461643165739/1225925103695433738/tenor_3.gif?ex=6622e6b9&is=661071b9&hm=5fae537911234f928770c0f05b3cc2065d15d18eb3b49628e99d4ecfcaf28ee7&">
 
 <p align="left">Entusiasmado(a) em aprender! Eu constantemente me esforço para me desafiar e aprimorar meu conhecimento.
 Sou uma pessoa que valoriza manter um ambiente positivo, saudável e agradável. Uma característica que me esforço para incorporar é o senso de leveza que busco transmitir.
